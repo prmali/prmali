@@ -1,6 +1,5 @@
 👋 Hi, I’m @prmali
 
-3rd year @ UCSD. Crypto enthusiast
 Currently exploring blockchain tech + applications, logistics + supply chain, machine learning, and anything else that catches my interest.
 
 Always working on projects. Currently:
