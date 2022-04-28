@@ -9,7 +9,7 @@ Always working on projects. Currently:
 - Scnr 🔎
 - Gnome 🧬
 
-Website coming soon 😎
+[Website](https://prathik.xyz)
 <!---
 prmali/prmali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
