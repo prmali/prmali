@@ -8,6 +8,7 @@ Always working on projects. Currently:
 - Spot 🏦
 - Scnr 🔎
 - Gnome 🧬
+- Lever 🎨
 
 [Website](https://prathik.xyz)
 <!---
