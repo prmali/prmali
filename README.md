@@ -4,11 +4,7 @@ Currently exploring blockchain tech + applications, logistics + supply chain, ma
 
 Always working on projects. Currently:
 - Atlas 📦
-- Agora ⚖️
-- Spot 🏦
-- Scnr 🔎
-- Gnome 🧬
-- Lever 🎨
+- Pangea ✉️
 
 [Website](https://prathik.xyz)
 <!---
